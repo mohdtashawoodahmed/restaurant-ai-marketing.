@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" fill="none">
+  <rect width="32" height="32" rx="8" fill="#1B1712"/>
+  <path
+    d="M16 6 C16 6 10 13 10 18 C10 21.314 12.686 24 16 24 C19.314 24 22 21.314 22 18 C22 13 16 6 16 6Z"
+    fill="url(#ember)"
+    stroke="none"
+  />
+  <path
+    d="M16 14 C16 14 13 17.5 13 19.5 C13 21.157 14.343 22.5 16 22.5 C17.657 22.5 19 21.157 19 19.5 C19 17.5 16 14 16 14Z"
+    fill="#FFF1EA"
+    opacity="0.85"
+  />
+  <defs>
+    <linearGradient id="ember" x1="16" y1="6" x2="16" y2="24" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#C9A227"/>
+      <stop offset="100%" stop-color="#FF7A45"/>
+    </linearGradient>
+  </defs>
+</svg>
